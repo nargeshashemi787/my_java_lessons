@@ -1,0 +1,9 @@
+package Session3;
+
+public class ArreyDemo3 {
+    static void main(String[] args) {
+        System.out.println(args);
+        System.out.println(args[0]);
+        System.out.println(args[1]);
+    }
+}
